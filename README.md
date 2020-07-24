@@ -2,7 +2,7 @@
 
 Olá, meu nome é Madson Santos, sou formado em análise de sistemas pela [Faculdade Grande Fortaleza](http://unigrande.edu.br/ "Faculdade Grande Fortaleza").  
 
-Durante muito tempo namorei a linguagem PHP, mas a menina dos meus olhos é a linguagem Java, com quem pretendo me casar futuramente :laughing:. Ultimamente tenho me dedicado a estudar o framework Springbot, com JPA e Thymeleaf.
+Durante muito tempo namorei a linguagem PHP, mas a menina dos meus olhos é a linguagem Java, com quem pretendo me casar futuramente :laughing:. Ultimamente tenho me dedicado aos estudos do framework Springbot, com JPA e Thymeleaf.
 
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
