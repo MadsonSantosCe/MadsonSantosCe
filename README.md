@@ -6,6 +6,11 @@ Durante muito tempo namorei a linguagem PHP, mas a menina dos meus olhos é a li
 
 Desde já agradeço a sua visita.
 
+## Com quem eu tenho aprendido.
+- [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") (Udemy - Online)
+- [Digital Innovation One](https://web.digitalinnovation.one/tracks "Digital Innovation One") (Online)
+- [IwTraining](https://www.iwtraining.com.br/ "IwTraining") (Presencial)
+
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
