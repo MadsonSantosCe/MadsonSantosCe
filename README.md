@@ -7,7 +7,7 @@ Durante muito tempo namorei a linguagem PHP, mas a menina dos meus olhos é a li
 Desde já agradeço a sua visita.
 
 ## Com quem eu tenho aprendido.
-Seja através do youtube ou em cursos, pagos ou gratuítos, eu tenho buscado aprender um pouco mais a cada dia. Portanto, segue uma lista de cursos que estou fazendo atualmente:
+Segue uma lista de cursos, pagos e gratuítos, que estou fazendo atualmente:
 
 - [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
 Java do básico ao avançado, de forma sequencial e sem atropelos.
