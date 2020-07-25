@@ -4,7 +4,7 @@ Olá, meu nome é Madson Santos, sou formado em análise de sistemas pela [Unigr
 
 Durante muito tempo namorei a linguagem PHP, mas a menina dos meus olhos é a linguagem Java, com quem pretendo me casar futuramente. Ultimamente tenho me dedicado aos estudos do framework Springbot, com JPA e Ionic.
 
-Desde já agradeço a sua visita.
+E desde já agradeço a sua visita.
 
 ## Com quem eu tenho aprendido.
 Segue uma lista de cursos, pagos e gratuítos, que estou fazendo atualmente:
