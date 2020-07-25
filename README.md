@@ -23,7 +23,7 @@ Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e ou
 
 - Front end: HTML, CSS, Javascript, XML (Android)
 - Back end: PHP, MySQL, PostgreSQL, SQLite
-- Plataforma: [DialogFlow](https://dialogflow.cloud.google.com/ "DialogFlow"),[Glitch](https://glitch.com/ "Glitch"), GitHub
+- Plataforma: [DialogFlow](https://dialogflow.cloud.google.com/ "DialogFlow"), [Glitch](https://glitch.com/ "Glitch"), GitHub
 
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
