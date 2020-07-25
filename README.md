@@ -8,7 +8,7 @@ Desde já agradeço a sua visita.
 
 ## Com quem eu tenho aprendido.
 - [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") (Udemy - Online)
-- [Digital Innovation One](https://web.digitalinnovation.one/tracks "Digital Innovation One") (Online)
+- [Digital Innovation One](https://digitalinnovation.one "Digital Innovation One") (Online)
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") (Presencial)
 
 <!--
