@@ -19,7 +19,7 @@ Cursos gratuítos de programação e idiomas com certificado Dell
 Escola de designer e programação. Eu AMO aula presencial, mas ultimamente estamos off por causa da pandemia.
 
 ## Linguagens e plataformas que tive contato.
-Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e outras arquiteruras além daquelas que estão nos repositórios desse Github.
+Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e outras arquiterturas além daquelas que estão nos repositórios desse Github.
 
 - Front end: [HTML](https://www.w3schools.com/html/ "HTML"), [CSS](https://www.w3schools.com/css/ "CSS"), [Javascript](https://www.w3schools.com/js/default.asp "Javascript")
 - Back end: [PHP](https://www.w3schools.com/php/DEFAULT.asp "PHP"), [MySQL](https://www.mysql.com/ "MySQL"), [PostgreSQL](https://www.postgresql.org/ "PostgreSQL"), [SQLite](https://www.sqlite.org/index.html "SQLite")
