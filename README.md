@@ -14,7 +14,7 @@ Abriu a minha mente para muitos assuntos como arquitetura serverless e microsser
 - [Dell Lead](http://leadfortaleza.com.br/dal/nossos-cursos/ "Dell Lead") :
 Cursos gratuítos de programação e idiomas com certificado Dell
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
-Escola de designer e programação. Eu AMO aula presencial, ultimamente estamos off por causa da pandemia.
+Escola de designer e programação. Eu AMO aula presencial, mas ultimamente estamos off por causa da pandemia.
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
