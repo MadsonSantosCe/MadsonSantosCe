@@ -10,10 +10,9 @@ Desde já agradeço a sua visita.
 - [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
 Java do básico ao avancado, de forma sequencial e sem atropelos.
 - [Digital Innovation One](https://digitalinnovation.one "Digital Innovation One") :
-Abriu a minha mente para muitos assuntos que eu nem conhecia, como arquiterura servless e microserviços 
+Abriu a minha mente para muitos assuntos que eu nem conhecia, como arquitetura serverless e micro serviços 
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
-eu AMO aula presencial, ultimamente estamos off por causa da pandemia.
-
+Escola de designe e programação. Eu AMO aula presencial, ultimamente estamos off por causa da pandemia.
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
