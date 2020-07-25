@@ -18,7 +18,7 @@ Cursos gratuítos de programação e idiomas com certificado Dell
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
 Escola de designer e programação. Eu AMO aula presencial, mas ultimamente estamos off por causa da pandemia.
 
-## Linguagens e plataformas que já tive contato.
+## Linguagens e plataformas que tive contato.
 Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e outras arquiteruras além daquelas que estão nos repositórios desse Github.
 
 - Front end: HTML, CSS, Javascript, XML (Android)
