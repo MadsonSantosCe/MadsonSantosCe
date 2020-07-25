@@ -7,9 +7,12 @@ Durante muito tempo namorei a linguagem PHP, mas a menina dos meus olhos é a li
 Desde já agradeço a sua visita.
 
 ## Com quem eu tenho aprendido.
-- [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") (Udemy - Online)
-- [Digital Innovation One](https://digitalinnovation.one "Digital Innovation One") (Online)
-- [IwTraining](https://www.iwtraining.com.br/ "IwTraining") (Presencial)
+- [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
+Java do básico ao avancado, de forma sequencial e sem atropelos.
+- [Digital Innovation One](https://digitalinnovation.one "Digital Innovation One") :
+Abriu a minha mente para muitos assuntos que eu nem conhecia, como arquiterura servless e microserviços 
+- [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
+eu AMO aula presencial, ultimamente estamos off por causa da pandemia.
 
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
