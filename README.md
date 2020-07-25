@@ -17,6 +17,13 @@ Abriu a minha mente para muitos assuntos como arquitetura serverless e microsser
 Cursos gratuítos de programação e idiomas com certificado Dell
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
 Escola de designer e programação. Eu AMO aula presencial, mas ultimamente estamos off por causa da pandemia.
+
+## Linguagem que já programei.
+Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e outras arquiteruras além daquelas que estão nos repositórios desse Github.
+
+- Front end: HTML, CSS, Javascript, XML (Android)
+- Back end: PHP, MySQL, PostgreSQL, SQLite
+
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
