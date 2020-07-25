@@ -8,7 +8,7 @@ Desde já agradeço a sua visita.
 
 ## Com quem eu tenho aprendido.
 - [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
-Java do básico ao avancado, de forma sequencial e sem atropelos.
+Java do básico ao avançado, de forma sequencial e sem atropelos.
 - [Digital Innovation One](https://digitalinnovation.one "Digital Innovation One") :
 Abriu a minha mente para muitos assuntos que eu nem conhecia, como arquitetura serverless e micro serviços 
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
