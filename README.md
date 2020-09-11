@@ -1,6 +1,6 @@
 # Bem vindo e sinta-se a vontade. 
 
-Olá, meu nome é Madson Santos, sou formado em análise de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
+Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
 
 Durante muito tempo namorei a linguagem Java, mas a menina dos meus olhos é a programação web. Ultimamente tenho me dedicado aos estudos do framework React.
 
