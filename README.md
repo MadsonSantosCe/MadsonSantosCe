@@ -2,7 +2,7 @@
 
 Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
 
-Durante muito tempo namorei a linguagem Java, mas a menina dos meus olhos é a programação web. Ultimamente tenho me dedicado aos estudos do framework React.
+Finalmente consegui minha primeira oportunidade como desenvolvedor, sou muito grato a Fitbank por essa oportunidade única que eles me proporcionaram. Ultimamente estou comendo C# de manhã e de tarde na empresa enquanto cresço profissionalmente.
 
 Desde já agradeço a sua visita.
 
