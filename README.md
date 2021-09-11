@@ -2,7 +2,7 @@
 
 Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
 
-Finalmente consegui minha primeira oportunidade como desenvolvedor, sou muito grato a Fitbank por essa oportunidade única que eles me proporcionaram. Ultimamente estou comendo C# de manhã e de tarde na empresa enquanto cresço profissionalmente.
+Finalmente consegui minha primeira oportunidade como desenvolvedor, sou muito grato ao Fitbank por essa oportunidade única. A empresa me abracou, então abracei o C#, a linguagem usada pela empresa, e cada dia mais tenho me aprimorado no conhecimento do ambiente de desemvolvimento .NET
 
 Desde já agradeço a sua visita.
 
@@ -16,13 +16,13 @@ Abriu a minha mente para muitos assuntos como arquitetura serverless e microsser
 - [Dell Lead](http://leadfortaleza.com.br/dal/nossos-cursos/ "Dell Lead") :
 Cursos gratuítos de programação e idiomas com certificado Dell
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
-Escola de designer e programação. Eu AMO aula presencial, mas ultimamente estamos off por causa da pandemia.
+Escola de designer e programação. Eu AMO aula presencial.
 
 ## Linguagens e plataformas que tive contato.
 Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e outras plataformas além daquelas que estão nos repositórios desse Github.
 
 - Front end: [HTML](https://www.w3schools.com/html/ "HTML"), [CSS](https://www.w3schools.com/css/ "CSS"), [Javascript](https://www.w3schools.com/js/default.asp "Javascript")
-- Back end: [PHP](https://www.w3schools.com/php/DEFAULT.asp "PHP"), [MySQL](https://www.mysql.com/ "MySQL"), [PostgreSQL](https://www.postgresql.org/ "PostgreSQL"), [SQLite](https://www.sqlite.org/index.html "SQLite")
+- Back end: [Java](https://www.java.com/pt-BR/about/whatis_java.jsp "Java"), [PHP](https://www.w3schools.com/php/DEFAULT.asp "PHP"), [MySQL](https://www.mysql.com/ "MySQL"), [PostgreSQL](https://www.postgresql.org/ "PostgreSQL"), [SQLite](https://www.sqlite.org/index.html "SQLite")
 - Plataformas: [DialogFlow](https://dialogflow.cloud.google.com/ "DialogFlow"), [Blogger](www.blogger.com "Blogger")
 
 <!--
