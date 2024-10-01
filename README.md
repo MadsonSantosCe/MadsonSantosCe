@@ -19,9 +19,9 @@ Segue uma lista de cursos, pagos e gratuítos, que estou fazendo atualmente:
 - [Digital Innovation One](https://digitalinnovation.one/bootcamps/backend-developer-carrefour "Digital Innovation One") :
 Abriu a minha mente para muitos assuntos como arquitetura serverless e microsserviços
 - [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
-Java do básico ao avançado, de forma sequencial e sem atropelos.
+Do básico ao avançado, de forma sequencial e sem atropelos.
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
-Escola de designer e programação. Eu AMO aula presencial.
+Escola de designer e programação.
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
