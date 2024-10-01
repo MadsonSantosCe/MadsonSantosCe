@@ -22,7 +22,7 @@ Escola de designer e programação. Eu AMO aula presencial.
 Iniciei minha carreira em 2021 no FitBank, sou desenvovedor .NET. Seguem as tecnologias que utilizei durante esse período.
 
 - Front end: [React](https://react.dev/learn "React"), [TypeScript](https://www.typescriptlang.org/ "TypeScript"), [Material UI](https://mui.com/material-ui/getting-started/ "Material UI")
-- Back end: [.NET](https://dotnet.microsoft.com/pt-br/ ".Net"), [SQL Server](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 "SQL Server"), [GitHub](https://github.com/about "GitHub")(https://www.sqlite.org/index.html "SQLite")
+- Back end: [.NET](https://dotnet.microsoft.com/pt-br/ ".Net"), [SQL Server](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 "SQL Server"), [GitHub](https://github.com/about "GitHub")
 - Plataformas: [Azure Devops](https://azure.microsoft.com/pt-br/products/devops/boards "Azure Devops"), [Elastic]([www.blogger.com](https://www.elastic.co/pt/) "Elastic")
 
 <!--
