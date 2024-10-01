@@ -2,7 +2,7 @@
 
 Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
 
-Finalmente consegui minha primeira oportunidade como desenvolvedor, sou muito grato ao Fitbank por essa oportunidade única. A empresa me abracou, então abracei o C#, a linguagem usada pela empresa, e cada dia mais tenho me aprimorado no conhecimento do ambiente de desemvolvimento .NET
+No FitBank, minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu trabalho em equipe e minha capacidade de liderança contribuiu significativamente para o crescimento da empresa. Com foco em resultados e melhoria contínua, busquei constantemente a excelência técnica e a otimização dos fluxos de trabalho, objetivando um impacto positivo no ecossistema de pagamentos digitais.
 
 Desde já agradeço a sua visita.
 
