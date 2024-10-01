@@ -20,8 +20,6 @@ Segue uma lista de cursos, pagos e gratuítos, que estou fazendo atualmente:
 Abriu a minha mente para muitos assuntos como arquitetura serverless e microsserviços
 - [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
 Java do básico ao avançado, de forma sequencial e sem atropelos.
-- [Dell Lead](http://leadfortaleza.com.br/dal/nossos-cursos/ "Dell Lead") :
-Cursos gratuítos de programação e idiomas com certificado Dell
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
 Escola de designer e programação. Eu AMO aula presencial.
 <!--
