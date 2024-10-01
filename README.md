@@ -1,4 +1,4 @@
-# Bem vindo e sinta-se a vontade. 
+# Bem vindo. 
 
 Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
 
