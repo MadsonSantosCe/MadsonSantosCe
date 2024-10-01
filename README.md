@@ -6,18 +6,6 @@ Minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu tra
 
 Desde já agradeço a sua visita.
 
-## Com quem eu tenho aprendido.
-Segue uma lista de cursos, pagos e gratuítos, que estou fazendo atualmente:
-
-- [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
-Java do básico ao avançado, de forma sequencial e sem atropelos.
-- [Digital Innovation One](https://digitalinnovation.one/bootcamps/backend-developer-carrefour "Digital Innovation One") :
-Abriu a minha mente para muitos assuntos como arquitetura serverless e microsserviços
-- [Dell Lead](http://leadfortaleza.com.br/dal/nossos-cursos/ "Dell Lead") :
-Cursos gratuítos de programação e idiomas com certificado Dell
-- [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
-Escola de designer e programação. Eu AMO aula presencial.
-
 ## Tecnologias utilizadas.
 Iniciei minha carreira em 2021 no FitBank, sou desenvovedor .NET. Seguem as tecnologias que utilizei durante esse período.
 
@@ -25,6 +13,17 @@ Iniciei minha carreira em 2021 no FitBank, sou desenvovedor .NET. Seguem as tecn
 - Back end: [.NET](https://dotnet.microsoft.com/pt-br/ ".Net"), [SQL Server](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 "SQL Server"), [GitHub](https://github.com/about "GitHub")
 - Plataformas: [Azure Devops](https://azure.microsoft.com/pt-br/products/devops/boards "Azure Devops"), [Elastic](https://www.elastic.co/pt/ "Elastic")
 
+## Com quem eu tenho aprendido.
+Segue uma lista de cursos, pagos e gratuítos, que estou fazendo atualmente:
+
+- [Digital Innovation One](https://digitalinnovation.one/bootcamps/backend-developer-carrefour "Digital Innovation One") :
+Abriu a minha mente para muitos assuntos como arquitetura serverless e microsserviços
+- [Prof. Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Prof. Nélio Alves") :
+Java do básico ao avançado, de forma sequencial e sem atropelos.
+- [Dell Lead](http://leadfortaleza.com.br/dal/nossos-cursos/ "Dell Lead") :
+Cursos gratuítos de programação e idiomas com certificado Dell
+- [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
+Escola de designer e programação. Eu AMO aula presencial.
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
