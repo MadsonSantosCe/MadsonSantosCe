@@ -2,7 +2,7 @@
 
 Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
 
-No FitBank, minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu trabalho em equipe e minha capacidade de liderança contribuiu significativamente para o crescimento da empresa. Com foco em resultados e melhoria contínua, busquei constantemente a excelência técnica e a otimização dos fluxos de trabalho, objetivando um impacto positivo no ecossistema de pagamentos digitais.
+Minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu trabalho em equipe e minha capacidade de liderança contribuiu significativamente para o crescimento da empresa. Com foco em resultados e melhoria contínua, busquei constantemente a excelência técnica e a otimização dos fluxos de trabalho, objetivando um impacto positivo no ecossistema de pagamentos digitais.
 
 Desde já agradeço a sua visita.
 
@@ -18,12 +18,12 @@ Cursos gratuítos de programação e idiomas com certificado Dell
 - [IwTraining](https://www.iwtraining.com.br/ "IwTraining") :
 Escola de designer e programação. Eu AMO aula presencial.
 
-## Linguagens e plataformas que tive contato.
-Comecei a usar o Github neste ano (2020), mas já estudei outras linguagens e outras plataformas além daquelas que estão nos repositórios desse Github.
+## Tecnologias utilizadas.
+Iniciei minha carreira em 2021 no FitBank, sou desenvovedor .NET. Seguem as tecnologias que utilizei durante esse período.
 
-- Front end: [HTML](https://www.w3schools.com/html/ "HTML"), [CSS](https://www.w3schools.com/css/ "CSS"), [Javascript](https://www.w3schools.com/js/default.asp "Javascript")
-- Back end: [Java](https://www.java.com/pt-BR/about/whatis_java.jsp "Java"), [PHP](https://www.w3schools.com/php/DEFAULT.asp "PHP"), [MySQL](https://www.mysql.com/ "MySQL"), [PostgreSQL](https://www.postgresql.org/ "PostgreSQL"), [SQLite](https://www.sqlite.org/index.html "SQLite")
-- Plataformas: [DialogFlow](https://dialogflow.cloud.google.com/ "DialogFlow"), [Blogger](www.blogger.com "Blogger")
+- Front end: [React](https://react.dev/learn "React"), [TypeScript](https://www.typescriptlang.org/ "TypeScript"), [Material UI](https://mui.com/material-ui/getting-started/ "Material UI")
+- Back end: [.NET](https://dotnet.microsoft.com/pt-br/ ".Net"), [SQL Server](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 "SQL Server"), [GitHub](https://github.com/about "GitHub")(https://www.sqlite.org/index.html "SQLite")
+- Plataformas: [Azure Devops](https://azure.microsoft.com/pt-br/products/devops/boards "Azure Devops"), [Elastic]([www.blogger.com](https://www.elastic.co/pt/) "Elastic")
 
 <!--
 **MadsonSantosCe/MadsonSantosCe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
