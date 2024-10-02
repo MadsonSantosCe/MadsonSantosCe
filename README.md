@@ -1,6 +1,6 @@
 # Bem vindo. 
 
-Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela [Unigrande](http://unigrande.edu.br/ "Unigrande"), antiga Faculdade Grande Fortaleza.
+Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela Unigrande, antiga  [Faculdade Grande Fortaleza](http://unigrande.edu.br/ "Faculdade Grande Fortaleza").
 
 Minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu trabalho em equipe e minha capacidade de liderança contribuiu significativamente para o crescimento da empresa. Com foco em resultados e melhoria contínua, busquei constantemente a excelência técnica e a otimização dos fluxos de trabalho, objetivando um impacto positivo no ecossistema de pagamentos digitais.
 
