@@ -6,7 +6,7 @@ Minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu tra
 
 Desde já agradeço a sua visita.
 
-## Tecnologias utilizadas.
+## Experiência Profissional.
 Iniciei minha carreira em 2021 no FitBank, sou desenvovedor .NET. Seguem as tecnologias que utilizei durante esse período.
 
 - Front end: [React](https://react.dev/learn "React"), [TypeScript](https://www.typescriptlang.org/ "TypeScript"), [Material UI](https://mui.com/material-ui/getting-started/ "Material UI")
