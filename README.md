@@ -2,7 +2,9 @@
 
 Olá, meu nome é Madson Santos, sou formado em análise e desenvolvimento de sistemas pela Unigrande, antiga  [Faculdade Grande Fortaleza](http://unigrande.edu.br/ "Faculdade Grande Fortaleza").
 
-Minha trajetória evoluiu rapidamente de Desenvolvedor .NET a Tech Lead. Meu trabalho em equipe e minha capacidade de liderança contribuiu significativamente para o crescimento. Com foco em resultados e melhoria contínua, busquei constantemente a excelência técnica e a otimização dos fluxos de trabalho, objetivando um impacto positivo no ecossistema de pagamentos digitais.
+Sou desenvolvedor fullstack com três anos de experiência no mercado financeiro, atuando em projetos que abrangem desde o onboarding de clientes até a integração com o Sistema de Pagamentos Brasileiro (SPB). Sou apaixonado por desenvolvimento de software e busco sempre me manter atualizado com as tendências tecnológicas e as demandas do mercado. Tenho prazer em liderar equipes e explorar novas soluções, e essa paixão é o que impulsiona minha carreira!
+
+Atualmente, busco novas oportunidades para liderar projetos de desenvolvimento e contribuir com soluções inovadoras
 
 Desde já agradeço a sua visita.
 
